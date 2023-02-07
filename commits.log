@@ -1,0 +1,98 @@
+commit d30888f78ba21a9e432d2513b5a1eb877a0c3d61
+Author: JoseEibar <jj.iiestrada@gmail.com>
+Date:   Wed Feb 1 17:36:48 2023 -0600
+
+    Agregando 2 parrafos a index.html
+
+commit 7f54357980ccc41128a9e4134b4c75f44192b573
+Merge: 47eac52 0fb76f0
+Author: JoseEibar <jj.iiestrada@gmail.com>
+Date:   Wed Feb 1 17:32:25 2023 -0600
+
+    Resolciendo conflicato en index.js con estaciones de año
+
+commit 47eac52e48883e96eab09a0b7652df8f9c225748
+Author: JoseEibar <jj.iiestrada@gmail.com>
+Date:   Wed Feb 1 17:03:16 2023 -0600
+
+    Estaciones del año con fechas
+
+commit 0fb76f08532b7ccbff0a30437bb7967fc1f4e74a
+Author: JoseEibar <jj.iiestrada@gmail.com>
+Date:   Wed Feb 1 17:03:16 2023 -0600
+
+    Agregando las estaciones del Año
+
+commit 0b149f0ec42f82aa76141d7cc6a272614ecbf92f
+Merge: 80aa577 2b85b5a
+Author: JoseEibar <jj.iiestrada@gmail.com>
+Date:   Tue Jan 31 14:58:05 2023 -0600
+
+    resolvi un conflicto en merge html
+
+commit 2b85b5add7f63021d560f9fdb83f24042aa9d342
+Author: JoseEibar <jj.iiestrada@gmail.com>
+Date:   Tue Jan 31 14:44:06 2023 -0600
+
+    Agregando index.js a HTML
+
+commit 80aa577d35c1cd47cba5c198d23c9b5085f54d02
+Author: JoseEibar <jj.iiestrada@gmail.com>
+Date:   Tue Jan 31 14:37:56 2023 -0600
+
+    Agregando CSS a HTML
+
+commit cfeb3d45a6c73daa37acfd20c804909acfa8cea3
+Merge: 1434ca3 f8000e6
+Author: JoseEibar <jj.iiestrada@gmail.com>
+Date:   Tue Jan 31 13:56:04 2023 -0600
+
+    Merge branch 'js'
+
+commit f8000e60b0cf276d1d9d7eb833eebaaa4a4460d3
+Author: JoseEibar <jj.iiestrada@gmail.com>
+Date:   Mon Jan 30 17:53:51 2023 -0600
+
+    Creando js
+
+commit 1434ca337bcc373efa99b4d0d05b11404ba688c5
+Author: JoseEibar <jj.iiestrada@gmail.com>
+Date:   Mon Jan 30 17:44:21 2023 -0600
+
+    Creando style.css
+
+commit 1896c91a847c0fa41b978d74e31eb28aa7ad6a6d
+Author: JoseEibar <jj.iiestrada@gmail.com>
+Date:   Mon Jan 30 17:26:37 2023 -0600
+
+    Creando un index.html
+
+commit 64584e8b02dd6cfa5281eceedf44e0b468b586a8
+Author: JoseEibar <jj.iiestrada@gmail.com>
+Date:   Sat Jan 28 19:18:24 2023 -0600
+
+    Ignorando archivos .exe
+
+commit 43e2fc41d68f0d3fcd6ed2a0fd33b439b6fa8312
+Author: JoseEibar <68033768+JoseEibar@users.noreply.github.com>
+Date:   Sat Jan 28 18:31:42 2023 -0600
+
+    Creando licencia del repositorio
+
+commit 28773ff44038c886ac1d637c2cd3d49c81ec0923
+Author: JoseEibar <jj.iiestrada@gmail.com>
+Date:   Sat Jan 28 17:50:29 2023 -0600
+
+    Agregando mas contenido al README
+
+commit 9b73144c7286657b1bb10a6ea64cc6b00500344c
+Author: JoseEibar <jj.iiestrada@gmail.com>
+Date:   Sat Jan 28 17:15:13 2023 -0600
+
+    Agreganto contenido inicial al README
+
+commit 1778606cca9e4608013297341f22334de036ad0e
+Author: JoseEibar <jj.iiestrada@gmail.com>
+Date:   Sat Jan 28 17:05:51 2023 -0600
+
+    Primer commiter
